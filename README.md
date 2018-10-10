@@ -1,5 +1,5 @@
 # Webp replacer
-A simple JS script for replace a .webp image for a .png version in unsupported browsers.
+A simple JS script for replace a .webp image for a .png version in browsers that not support .webp format.
 
 ## Getting Started
 You need to link JS file in  **bottom** of your HTML file.
